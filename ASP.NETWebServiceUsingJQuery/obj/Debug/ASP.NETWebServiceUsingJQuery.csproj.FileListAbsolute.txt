@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\sumraiz\ASP.NETWebServiceUsingJQuery\ASP.NETWebServiceUsingJQuery\bin\ASP.NETWebServiceUsingJQuery.dll
+C:\Users\Administrator\Desktop\sumraiz\ASP.NETWebServiceUsingJQuery\ASP.NETWebServiceUsingJQuery\bin\ASP.NETWebServiceUsingJQuery.pdb
+C:\Users\Administrator\Desktop\sumraiz\ASP.NETWebServiceUsingJQuery\ASP.NETWebServiceUsingJQuery\obj\Debug\ASP.NETWebServiceUsingJQuery.dll
+C:\Users\Administrator\Desktop\sumraiz\ASP.NETWebServiceUsingJQuery\ASP.NETWebServiceUsingJQuery\obj\Debug\ASP.NETWebServiceUsingJQuery.pdb
+C:\Users\Roozbeh\Desktop\ASP.NETWebServiceUsingJQuery\ASP.NETWebServiceUsingJQuery\bin\ASP.NETWebServiceUsingJQuery.dll.config
+C:\Users\Roozbeh\Desktop\ASP.NETWebServiceUsingJQuery\ASP.NETWebServiceUsingJQuery\bin\ASP.NETWebServiceUsingJQuery.dll
+C:\Users\Roozbeh\Desktop\ASP.NETWebServiceUsingJQuery\ASP.NETWebServiceUsingJQuery\bin\ASP.NETWebServiceUsingJQuery.pdb
+C:\Users\Roozbeh\Desktop\ASP.NETWebServiceUsingJQuery\ASP.NETWebServiceUsingJQuery\obj\Debug\ASP.NETWebServiceUsingJQuery.dll
+C:\Users\Roozbeh\Desktop\ASP.NETWebServiceUsingJQuery\ASP.NETWebServiceUsingJQuery\obj\Debug\ASP.NETWebServiceUsingJQuery.pdb
+C:\Users\Roozbeh\Desktop\ASP.NETWebServiceUsingJQuery\ASP.NETWebServiceUsingJQuery\obj\Debug\ASP.NETWebServiceUsingJQuery.csprojResolveAssemblyReference.cache
